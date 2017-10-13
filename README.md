@@ -1,7 +1,7 @@
 Kamikaze Vs. Bugs
 ===============================
 
-The purpose of this project is customize a classic frogger arcade game according to the lessons that I learned about Javascript Intermediate in Udacity Front-End Nanodegree Program.
+The purpose of this project is customize a classic frogger arcade game according to the lessons that I learnt about Javascript Intermediate and Canvas 2D in Udacity Front-End Nanodegree Program.
 
 ![alt kamikazevsbugs](https://github.com/claudiainbytes/kamikaze-vs-bugs/blob/master/about/screenshot.png)
 
@@ -17,7 +17,13 @@ Once a the player collides with an enemy, the game is reset and the player moves
 
 The player has three chances to play, if the player loses his lifes, the game shows a message that says "Game Over, to play again press Enter".
 
-Once the player reaches the water the level changes, showing obstacles and gems randomly across the road surface. Also the score increases, if the player reach the water or pick gems.
+Once the player reaches the water the level changes, showing obstacles and gems randomly across the road surface. Also the **score** increases **10000 points**, if the player reach the water or pick gems.
+
+There are three types of gems, each one worth:
+
+ - **Orange Gem**: 1000 points
+ - **Green Gem**: 2000 points
+ - **Blue Gem**: 5000 points
 
 The game has a finite number of levels, in which level defines the number of obstacles and the number of gems.
 
