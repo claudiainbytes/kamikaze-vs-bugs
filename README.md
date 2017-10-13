@@ -37,9 +37,13 @@ Additionaly, the game offers a dashboard in the button of the canvas area.
  - **Heart**: Indicates the chances to play.
  - **Rocket**: Indicates the level of the game.
 
+## Demo
+
+If you want to play without cloning, click here: [Kamikaze Vs. Bugs](https://github.com/claudiainbytes/kamikaze-vs-bugs)
+
 ## How to install
 
-Clone this game in your local machine, go into the folder, and open index.html to play:
+Clone this game in your local machine, go into the folder, and open index.html in a browser to play:
 ```
   git clone https://github.com/claudiainbytes/kamikaze-vs-bugs
 
