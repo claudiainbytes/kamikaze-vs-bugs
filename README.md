@@ -3,11 +3,15 @@ Kamikaze Vs. Bugs
 
 The purpose of this project is customize a classic frogger arcade game according to the lessons that I learned about Javascript Intermediate in Udacity Front-End Nanodegree Program.
 
+[[ https://github.com/claudiainbytes/kamikaze-vs-bugs/blob/master/about/screenshot.png | alt="kamikazevsbugs"]]
+
 ## Functionality
 
 In this game you have a Player and Enemies (Bugs). The goal of the player is to reach the water, without colliding into any one of the enemies.
 
 The player can move left, right, up and down. The enemies move in varying speeds on the paved block portion of the scene.
+
+The player must confront rocks as obstacles so, he cannot move next to any rock.
 
 Once a the player collides with an enemy, the game is reset and the player moves back to the start square.
 
@@ -23,16 +27,20 @@ When the player press ENTER, a new game is initialized.
 
 Additionaly, the game offers a dashboard in the button of the canvas area.
 
- - Star: Indicates the score of the game.
- - Heart: Indicates the chances to play.
- - Rocket: Indicates the level of the game.
+ - ** Star **: Indicates the score of the game.
+ - ** Heart **: Indicates the chances to play.
+ - ** Rocket **: Indicates the level of the game.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+## How to install
 
-## Install
+Clone this game in your local machine, go into the folder, and open index.html to play:
+```
+  git clone https://github.com/claudiainbytes/kamikaze-vs-bugs
 
-You can download this repository or cloning
+```
 
-## References
+## More info how to get started in Canvas 2D Games
 
-http://jlongster.com/Making-Sprite-based-Games-with-Canvas
+[Frogger Game: Getting Started](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+
+[Making Sprite based Games with Canvas](http://jlongster.com/Making-Sprite-based-Games-with-Canvas)
