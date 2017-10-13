@@ -39,7 +39,7 @@ Additionaly, the game offers a dashboard in the button of the canvas area.
 
 ## Demo
 
-If you want to play without cloning, click here: [Kamikaze Vs. Bugs](https://github.com/claudiainbytes/kamikaze-vs-bugs)
+If you want to play without cloning, click here: [Kamikaze Vs. Bugs](https://claudiainbytes.github.io/kamikaze-vs-bugs)
 
 ## How to install
 
