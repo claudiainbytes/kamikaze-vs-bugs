@@ -3,7 +3,7 @@ Kamikaze Vs. Bugs
 
 The purpose of this project is customize a classic frogger arcade game according to the lessons that I learned about Javascript Intermediate in Udacity Front-End Nanodegree Program.
 
-[[ https://github.com/claudiainbytes/kamikaze-vs-bugs/blob/master/about/screenshot.png | alt="kamikazevsbugs"]]
+![alt kamikazevsbugs](https://github.com/claudiainbytes/kamikaze-vs-bugs/blob/master/about/screenshot.png)
 
 ## Functionality
 
@@ -27,9 +27,9 @@ When the player press ENTER, a new game is initialized.
 
 Additionaly, the game offers a dashboard in the button of the canvas area.
 
- - ** Star **: Indicates the score of the game.
- - ** Heart **: Indicates the chances to play.
- - ** Rocket **: Indicates the level of the game.
+ - **Star**: Indicates the score of the game.
+ - **Heart**: Indicates the chances to play.
+ - **Rocket**: Indicates the level of the game.
 
 ## How to install
 
